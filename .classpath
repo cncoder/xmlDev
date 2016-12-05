@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lab9"/>
+	<classpathentry kind="src" path="lab13"/>
+	<classpathentry kind="src" path="lab12"/>
+	<classpathentry kind="src" path="lab14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xmldom4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdom-2.0.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
